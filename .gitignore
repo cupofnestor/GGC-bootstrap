@@ -1,0 +1,7 @@
+.idea/**
+/node_modules
+less/*.css
+.idea
+.idea/bootstrap.iml
+
+.idea/jsLibraryMappings.xml
